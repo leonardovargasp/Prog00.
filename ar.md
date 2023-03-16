@@ -1,9 +1,7 @@
-# ProgOO
+# Portada
+Usarname: @leonardovargasp
 Leonardo Gael Vargas Perez
-
-[PORTADA](./img/ar.md)
-
-[ParadigmaOO](./img/paradigma.md)
-
-[Diagrama UML.](./img/uml.md)
-
+Num. Control: 22211669
+Maestro: Mario Garcia
+Tarea: T1 U1
+Fecha: 15/03/23
