@@ -1,6 +1,4 @@
 # Prog00.
-
-# ProgOO
 Leonardo Gael Vargas Perez
 
 [PORTADA](./img/ar.md)
