@@ -1,5 +1,5 @@
 # Prog00.
-Leonardo Gael Vargas Perez
+## Leonardo Gael Vargas Perez
 
 [PORTADA](./img/ar.md)
 
